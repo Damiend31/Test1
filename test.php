@@ -1,15 +1,15 @@
 <?php
-'Hello World';
+echo 'Hello World';
 
-'Ceci est un cours de Git';
+echo 'Ceci est un cours de Git';
 
-'test en plus';
+echo 'test en plus';
 
-'ajout sur mon ordinateur local';
+echo 'ajout sur mon ordinateur local';
 
 $var = [2,3,4];
 
 foreach($var as $number){
 	echo $number;
 }
-'autre modif';
+echo 'autre modif';
