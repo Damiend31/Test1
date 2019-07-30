@@ -13,5 +13,3 @@ foreach($var as $number){
 	echo $number;
 }
 echo 'autre modif';
-
-echo 'modif a ne pas garder';
