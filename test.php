@@ -12,5 +12,4 @@ $var = [1,2,3];
 foreach($var as $number){
 	echo $number;
 }
-
 echo 'autre modif';
