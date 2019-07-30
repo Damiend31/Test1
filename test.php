@@ -7,7 +7,7 @@ echo 'test en plus';
 
 echo 'ajout sur mon ordinateur local';
 
-$var = [1,2,3];
+$var = [2,3,4];
 
 foreach($var as $number){
 	echo $number;
