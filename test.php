@@ -9,9 +9,9 @@ echo 'ajout sur mon ordinateur local';
 
 $var = [2,3,4];
 //pourquoi ca commence a 2 ????
-$altVar=[1,2,3];
+$altVar = [1,2,3];
 
-foreach($var as $number){
-	echo $numjer;
+foreach($altVar as $number){
+	echo $number;
 }
 echo 'autre modif';
